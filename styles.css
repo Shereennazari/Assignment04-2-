@@ -80,7 +80,8 @@ footer{
     border: 2px solid black;
     padding-left: 13px;
     padding-right: 5px;
-    padding-top: 20px;
+    padding-top: 15px;
+    padding-bottom: 10px;
     position: relative;
 }
 .related-products-name:hover .name{
@@ -93,6 +94,7 @@ footer{
     height: 40px;
     margin-top: 0;
     padding-top: 10px;
+    
     text-align: center;
     position: absolute;
     bottom: 0;
@@ -155,8 +157,4 @@ footer{
 .about-us{
     margin-top: 10px;
 }
-
-
-
-
 
